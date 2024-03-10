@@ -1,4 +1,4 @@
-POST http://localhost:3333/videos
+POST https://cursonode-c731.onrender.com/videos
 Content-Type: application/json
 
 {
@@ -9,11 +9,11 @@ Content-Type: application/json
 
 ###
 
-GET http://localhost:3333/videos
+GET https://cursonode-c731.onrender.com/videos
 
 ###
 
-PUT http://localhost:3333/videos/2d554e06-0164-4b3d-9614-a7fb28a76596
+PUT https://cursonode-c731.onrender.com/videos/2d554e06-0164-4b3d-9614-a7fb28a76596
 Content-Type: application/json
 
 {
@@ -24,4 +24,4 @@ Content-Type: application/json
 
 ###
 
-DELETE http://localhost:3333/videos/2d554e06-0164-4b3d-9614-a7fb28a76596
+DELETE https://cursonode-c731.onrender.com/videos/2d554e06-0164-4b3d-9614-a7fb28a76596
